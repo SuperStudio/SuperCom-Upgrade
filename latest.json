@@ -1,1 +1,1 @@
-﻿{"LatestVersion":"1.7","ReleaseDate":"2022-11-02","ReleaseNote":{"zh-CN":"修复 TX\r\n修复添加备注后波特率被重置的问题\r\n修复配置未保存问题\r\n侧边栏不打开选项卡也可显示备注"}}
+﻿{"LatestVersion":"1.8","ReleaseDate":"2022-11-06","ReleaseNote":{"zh-CN":"实现发送命令批量运行\r\n支持循环发送命令 \r\n串口波特率可自定义\r\n串口所有设置可自动保存\r\n优化部分显示效果\r\n多命令检索匹配 \r\n修复一些可能的 BUG\r\n添加单元测试项目"}}
