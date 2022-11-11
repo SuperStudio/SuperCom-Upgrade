@@ -1,1 +1,1 @@
-﻿{"LatestVersion":"1.8","ReleaseDate":"2022-11-06","ReleaseNote":{"zh-CN":"实现发送命令批量运行\r\n支持循环发送命令 \r\n串口波特率可自定义\r\n串口所有设置可自动保存\r\n优化部分显示效果\r\n多命令检索匹配 \r\n修复一些可能的 BUG\r\n添加单元测试项目"}}
+﻿{"LatestVersion":"1.9","ReleaseDate":"2022-11-11","ReleaseNote":{"zh-CN":"自定义文件名\r\n恢复默认设置\r\n搜索后停止滚屏\r\n发送命令后停止滚屏"}}
