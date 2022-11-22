@@ -1,1 +1,1 @@
-﻿{"LatestVersion":"1.9","ReleaseDate":"2022-11-11","ReleaseNote":{"zh-CN":"自定义文件名\r\n恢复默认设置\r\n搜索后停止滚屏\r\n发送命令后停止滚屏"}}
+﻿{"LatestVersion":"2.0","ReleaseDate":"2022-11-23","ReleaseNote":{"zh-CN":"※※支持自定义正则高亮\r\n去到顶部tooltip\r\n断开后不清空rx tx\r\n修改命令后，命令下拉选择不变\r\n重命名右键菜单\r\n添加一个命令，立马切换到其他项目不保存\r\n关闭软件或断开导致界面卡死\r\n优化 ComLog 的格式 \r\n新增正则高亮设置框架\r\n命令批量运行是窗口置顶\r\n字体大小记忆\r\n各种选项记忆\r\n实现串口可排序 \r\n发送队列选中选项可记忆\r\n设置选中选项可记忆"}}
