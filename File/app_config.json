@@ -1,0 +1,8 @@
+{
+  "PluginUrl": "https://superstudio.github.io/SuperPlugins/",
+  "ReleaseUrl": "https://github.com/SuperStudio/SuperCom/releases",
+  "UpgradeSource": "https://superstudio.github.io",
+  "UpdateUrl": "https://superstudio.github.io/SuperCom-Upgrade/latest.json",
+  "UpdateFileListUrl": "https://superstudio.github.io/SuperCom-Upgrade/list.json",
+  "UpdateFilePathUrl": "https://superstudio.github.io/SuperCom-Upgrade/File/"
+}
