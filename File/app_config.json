@@ -4,5 +4,8 @@
   "UpgradeSource": "https://superstudio.github.io",
   "UpdateUrl": "https://superstudio.github.io/SuperCom-Upgrade/latest.json",
   "UpdateFileListUrl": "https://superstudio.github.io/SuperCom-Upgrade/list.json",
-  "UpdateFilePathUrl": "https://superstudio.github.io/SuperCom-Upgrade/File/"
+  "UpdateFilePathUrl": "https://superstudio.github.io/SuperCom-Upgrade/File/",
+  "FeedbackUrl": "https://github.com/SuperStudio/SuperCom/issues",
+  "HelpUrl": "https://github.com/SuperStudio/SuperCom/wiki",
+  "ShowDonate": true
 }
