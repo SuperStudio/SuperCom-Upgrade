@@ -1,11 +1,14 @@
 {
-  "PluginUrl": "https://superstudio.github.io/SuperPlugins/",
-  "ReleaseUrl": "https://github.com/SuperStudio/SuperCom/releases",
-  "UpgradeSource": "https://superstudio.github.io",
-  "UpdateUrl": "https://superstudio.github.io/SuperCom-Upgrade/latest.json",
-  "UpdateFileListUrl": "https://superstudio.github.io/SuperCom-Upgrade/list.json",
-  "UpdateFilePathUrl": "https://superstudio.github.io/SuperCom-Upgrade/File/",
-  "FeedbackUrl": "https://github.com/SuperStudio/SuperCom/issues",
-  "HelpUrl": "https://github.com/SuperStudio/SuperCom/wiki",
+  "UpgradeSources": [
+    {
+      "Name": "Github",
+      "UpgradeSource": "https://superstudio.github.io/",
+      "PluginPath": "SuperPlugins",
+      "UpdatePath": "SuperCom-Upgrade",
+      "ReleaseUrl": "https://github.com/SuperStudio/SuperCom/releases",
+      "FeedbackUrl": "https://github.com/SuperStudio/SuperCom/issues",
+      "HelpUrl": "https://github.com/SuperStudio/SuperCom/wiki"
+    }
+  ],
   "ShowDonate": true
 }

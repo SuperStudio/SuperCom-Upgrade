@@ -1,1 +1,1 @@
-﻿{"LatestVersion":"2.6","ReleaseDate":"2023-01-04","ReleaseNote":{"zh-CN":"1. 修复时间戳转换问题 \r\n2. 优化搜索结果显示\r\n3. 搜索变化时更新数目"}}
+﻿{"LatestVersion":"2.7","ReleaseDate":"2023-01-07","ReleaseNote":{"zh-CN":"一、修复问题\r\n搜索变化时更新数目\r\n编辑命令右键编辑保存错误\r\n优化发送命令的运行状态及暂停的bug\r\n搜索时数目多切换到数目少，数字未更新\r\n\r\n二、新增功能\r\n修改默认 json 格式\r\n添加多更新源\r\n右键格式化\r\n可最小化到任务栏\r\n命令显示自动换行\r\n主界面可批量发送命令"}}
