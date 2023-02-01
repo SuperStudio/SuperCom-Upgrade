@@ -1,1 +1,7 @@
-﻿{"LatestVersion":"2.8","ReleaseDate":"2023-01-09","ReleaseNote":{"zh-CN":"【一、新增功能】\r\n自定义保存路径\r\n编辑命令打开后选择当前\r\n命令显示复制按钮\r\n\r\n【二、优化修复】\r\n点击运行后，界面透明了\r\n优化 SearchBox 显示效果"}}
+﻿{
+  "LatestVersion": "2.9",
+  "ReleaseDate": "2023-02-02",
+  "ReleaseNote": {
+    "zh-CN": "【一、新增功能】 \r\n新增过滤器\r\n新增日志分片\r\n支持虚拟串口功能\r\n编辑菜单新增以下功能\r\n *自动换行\r\n *修改字体\r\n *修改默认字体颜色\r\n *显示换行符\r\n *显示空格\r\n *显示Tab\r\n *显示行号\r\n *高亮选中行\r\n\r\n【二、优化修复】\r\n项目支持搜索\r\n重构部分代码\r\n发送栏自动换行\r\n异步关闭串口"
+  }
+}
