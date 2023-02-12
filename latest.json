@@ -1,5 +1,5 @@
 ﻿{
-  "LatestVersion": "3.0",
+  "LatestVersion": "3.1",
   "ReleaseDate": "2023-02-05",
   "ReleaseNote": {
     "zh-CN": "【一、新增功能】 \r\n过滤器\r\n选项卡右键支持：关闭、移动、固定操作\r\n\r\n【二、优化修复】\r\n修复输入备注时默认值不正确\r\n完善日志系统\r\n点击关闭后鼠标 arrow\r\n获得焦点的时候不滚动\r\n去掉2 个设置项：搜索时滚动、停止搜索后不滚动\r\n去掉固定时提示关闭搜索\r\n超大报文挂机，内存泄漏问题\r\nmenuitem 切换皮肤时未切换\r\n优化 Tilte 菜单栏"
