@@ -3,7 +3,11 @@
   "Data": [
     {
       "Type": "Hint",
-      "Message": "欢迎使用 SuperCom!"
+      "Message": "欢迎使用 SuperCom!",
+      "Urls": {
+        "官网": "https://github.com/SuperStudio/SuperCom",
+        "更新源": "https://github.com/SuperStudio/SuperCom-Upgrade"
+      }
     },
     {
       "Type": "Warning",
