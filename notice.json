@@ -3,23 +3,11 @@
   "Data": [
     {
       "Type": "Hint",
-      "Message": "欢迎使用 SuperCom!更多内容请访问官网！",
+      "Message": "欢迎使用 SuperCom! 更多内容请访问官网！",
       "Urls": {
         "官网": "https://github.com/SuperStudio/SuperCom",
         "更新源": "https://github.com/SuperStudio/SuperCom-Upgrade"
       }
-    },
-    {
-      "Type": "Warning",
-      "Message": "warning"
-    },
-    {
-      "Type": "Error",
-      "Message": "error"
-    },
-    {
-      "Type": "MarkDown",
-      "Message": "# markdown 测试 \n 正常文本"
     }
   ]
 }
