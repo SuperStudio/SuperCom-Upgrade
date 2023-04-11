@@ -1,7 +1,7 @@
 ﻿{
-  "LatestVersion": "3.2",
-  "ReleaseDate": "2023-03-26",
+  "LatestVersion": "3.3",
+  "ReleaseDate": "2023-04-11",
   "ReleaseNote": {
-    "zh-CN": "【一、新增功能】 \r\n窗口标准化\r\n日志固定提示\r\n\r\n【二、优化修复】\r\n更新时关闭串口\r\n隐藏发送框后，无法拉动还原\r\n拔掉串口后无法断开\r\n"
+    "zh-CN": "【一、新增功能】 \r\n统一官方提示功能\r\n\r\n【二、优化修复】\r\n优化稳定性及健壮性\r\n多余提示消息自动合并\r\n优化一些UI\r\n\r\n"
   }
 }
