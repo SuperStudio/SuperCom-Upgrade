@@ -1,0 +1,7 @@
+﻿{
+  "LatestVersion": "2.5",
+  "ReleaseDate": "2022-12-24",
+  "ReleaseNote": {
+    "zh-CN": "实现快捷键\r\n异常提示窗口 \r\n反馈/帮助按钮\r\n为我充电\r\n搜索显示个数\r\n添加快捷键冲突提示 \r\n新增2个快捷键功能"
+  }
+}

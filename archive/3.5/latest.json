@@ -1,0 +1,7 @@
+﻿{
+  "LatestVersion": "3.5",
+  "ReleaseDate": "2023-04-23",
+  "ReleaseNote": {
+    "zh-CN": "【一、新增功能】\r\n添加自适应高清图标\r\n新增【参考文献】\r\n新增串口设置：RTS、DTR、Handshake、ReadTimeout、WriteTimeout、DiscardNull\r\n\r\n【二、优化修复】\r\n优化日志显示\r\n优化DFX\r\n优化为【保存+应用】"
+  }
+}
