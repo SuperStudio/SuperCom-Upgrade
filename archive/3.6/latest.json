@@ -1,0 +1,7 @@
+﻿{
+  "LatestVersion": "3.6",
+  "ReleaseDate": "2023-05-03",
+  "ReleaseNote": {
+    "zh-CN": "【一、新增功能】\r\n支持 16 进制的收发\r\n\r\n【二、优化修复】\r\n统一 const 变量"
+  }
+}
