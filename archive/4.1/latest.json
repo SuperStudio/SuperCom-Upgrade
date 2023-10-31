@@ -1,0 +1,7 @@
+﻿{
+  "LatestVersion": "4.1",
+  "ReleaseDate": "2023-10-30",
+  "ReleaseNote": {
+    "zh-CN": "# 新增功能\r\n\r\n- [x] 新增 telnet 服务端模拟\r\n- [x] 自定义串口分包时间\r\n\r\n# 优化修复\r\n\r\n- [x] 修复串口设置编码无效\r\n- [x] 修复 CPU 占用率过高问题\r\n"
+  }
+}
