@@ -2,6 +2,6 @@
   "LatestVersion": "4.4",
   "ReleaseDate": "2025-06-15",
   "ReleaseNote": {
-    "zh-CN": "# 优化修复\r\n\r\n- [x] 去读延时搜索，修复搜索闪退\r\n\r\n"
+    "zh-CN": "# 优化修复\r\n\r\n- [x] 去除延时搜索，修复搜索闪退\r\n\r\n"
   }
 }
